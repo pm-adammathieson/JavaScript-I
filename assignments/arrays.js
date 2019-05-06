@@ -138,5 +138,5 @@ function getGermans(arr) {
     return arr.filter(car => car.car_make === "BMW" || car.car_make === "Audi")
 }
 
-console.log(getGermans(inventory))
+// console.log(getGermans(inventory))
 
